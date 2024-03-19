@@ -2,7 +2,7 @@
 #include <string.h>
 
 /*
- * Name: Devonte Billings
+
  */
 
 struct Gradebook gradebook;
